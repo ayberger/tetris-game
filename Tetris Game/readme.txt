@@ -1,0 +1,1 @@
+To run the game you should write ./tetris on the terminal when you open this folder's directory.
